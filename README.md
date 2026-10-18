@@ -19,7 +19,7 @@ The framework was developed by Jesse in collaboration with Claude, an AI model m
 | File | Contents |
 |---|---|
 | `A Mind That Agrees to Be Second.txt` | The framework (current version) |
-| `There Is One Ground` | The book it is drawn from *(link or file)* |
+| `There Is One Ground` | The book it is drawn from [*(link or file)*](https://github.com/jessegmadden/a-mind-that-agrees-to-be-second/blob/main/There%20is%20One%20Ground) |
 | `HARD_CASES.md` | Twelve test scenarios and how the framework handled them *(optional)* |
 
 ## The core ideas
